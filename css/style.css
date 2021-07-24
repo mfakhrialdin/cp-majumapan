@@ -1,0 +1,26 @@
+.slider h3, 
+.slider h5, .mitra h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.about p {
+    font-size: 20px;
+}
+
+.parallax-container {
+    height: 30%;
+}
+
+.parallax img {
+    filter: grayscale(0.7);
+    opacity: 0.5 !important;
+}
+
+.mitra img {
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+    max-width: 80%;
+}
+
+section, footer {
+    padding:20px 0px ;
+}
